@@ -6,7 +6,7 @@ The code provided in this repo was used to generate the results in the above pap
 
 1. Construct a mathematical model for norovirus, based on the model developed by Ben Lopman (see refs in the paper)
 - the ODE's are found in "noro_functions_mcmc_clean.R" using the function "ja.multistage.model.ii.seas", the other function includes specific assumptions about births.
-- This code was developed starting with a super-useful introduction by Aaron King and Helen Wearing (https://ms.mcmaster.ca/~bolker/eeid/2011_eco/waifw.pdf) 
+- This code was developed starting with a [super-useful](https://ms.mcmaster.ca/~bolker/eeid/2011_eco/waifw.pdf)  introduction by Aaron King and Helen Wearing 
 2. Find best fitting values of the parameter "q" when the model is compared to data from witihin the Harris study. Repeat this for several different models that cover some of the uncertainties we still have about norovirus transmission.
 - this was done by making minor changed in the code witihin noro_functions_mcmc_clean.R and 
 - polymod data was used during this fitting part, using the data within the package "socialmixr"
