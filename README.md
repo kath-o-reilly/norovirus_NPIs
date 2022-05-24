@@ -1,6 +1,6 @@
 ## Code for paper "Predicted Norovirus Resurgence in 2021-2022 Due to the Relaxation of Nonpharmaceutical Interventions Associated with COVID-19 Restrictions in England: A Mathematical Modelling Study"
 
-This is currently under review and available on [MedrXiv](https://www.medrxiv.org/content/10.1101/2021.07.09.21260277v1)
+This study is now peer-reviewed and available at [BMC Medicine](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02153-8)
 
 The code provided in this repo was used to generate the results in the above paper. The steps taken were in the following order:
 
@@ -14,7 +14,7 @@ The code provided in this repo was used to generate the results in the above pap
 - The code for this is in "noro_age_structure_sims08_seas_clean.R"
 - Simulations have been saved using rdat files
 4. Plot the simulations using the file "plot_models_noro_24May21_clean.R"
-- Note that the PHE is not available for use but the models can be run without this data
-- If data from Comix are required to replicate please get in contact.
+- Note that the PHE data is not available for use but the models can be run without this data
+- Data from Comix are now included in the repo.
 
 If any bugs or issues with the code are identified please do get in touch!
