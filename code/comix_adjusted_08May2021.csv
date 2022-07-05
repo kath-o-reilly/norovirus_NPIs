@@ -1,0 +1,577 @@
+"participant","contact","period","estcon"
+4,4,"1. Lockdown 1",0.300609065
+14,4,"1. Lockdown 1",0.280375497
+24,4,"1. Lockdown 1",0.090067573
+34,4,"1. Lockdown 1",0.349585147
+44,4,"1. Lockdown 1",0.525316287
+54,4,"1. Lockdown 1",0.272197581
+64,4,"1. Lockdown 1",0.068793313
+80,4,"1. Lockdown 1",0.061911203
+4,14,"1. Lockdown 1",0.191177345
+14,14,"1. Lockdown 1",0.636905941
+24,14,"1. Lockdown 1",0.318110793
+34,14,"1. Lockdown 1",0.1824870765
+44,14,"1. Lockdown 1",0.317873006
+54,14,"1. Lockdown 1",0.452128753
+64,14,"1. Lockdown 1",0.303050364
+80,14,"1. Lockdown 1",0.1072409935
+4,24,"1. Lockdown 1",0.894871845
+14,24,"1. Lockdown 1",0.729846208
+24,24,"1. Lockdown 1",0.434084071
+34,24,"1. Lockdown 1",0.658639296
+44,24,"1. Lockdown 1",0.490194794
+54,24,"1. Lockdown 1",0.303002157
+64,24,"1. Lockdown 1",0.462527009
+80,24,"1. Lockdown 1",0.23553788
+4,34,"1. Lockdown 1",1.244194149
+14,34,"1. Lockdown 1",1.115572175
+24,34,"1. Lockdown 1",0.409345016
+34,34,"1. Lockdown 1",0.45355307
+44,34,"1. Lockdown 1",0.659057328
+54,34,"1. Lockdown 1",0.419564587
+64,34,"1. Lockdown 1",0.310762941
+80,34,"1. Lockdown 1",0.2424278
+4,44,"1. Lockdown 1",0.596779788
+14,44,"1. Lockdown 1",1.532889015
+24,44,"1. Lockdown 1",0.845275024
+34,44,"1. Lockdown 1",0.259518124
+44,44,"1. Lockdown 1",0.388384045
+54,44,"1. Lockdown 1",0.524663969
+64,44,"1. Lockdown 1",0.419968914
+80,44,"1. Lockdown 1",0.190510073
+4,54,"1. Lockdown 1",0.160803836
+14,54,"1. Lockdown 1",1.145606346
+24,54,"1. Lockdown 1",0.843949965
+34,54,"1. Lockdown 1",0.422356719
+44,54,"1. Lockdown 1",0.306698827
+54,54,"1. Lockdown 1",0.447751946
+64,54,"1. Lockdown 1",0.595382121
+80,54,"1. Lockdown 1",0.370017362
+4,64,"1. Lockdown 1",0.114953314
+14,64,"1. Lockdown 1",0.320647159
+24,64,"1. Lockdown 1",0.230661532
+34,64,"1. Lockdown 1",0.170846128
+44,64,"1. Lockdown 1",0.190049785
+54,64,"1. Lockdown 1",0.161339368
+64,64,"1. Lockdown 1",0.293916639
+80,64,"1. Lockdown 1",0.581674928
+4,80,"1. Lockdown 1",0.082135339
+14,80,"1. Lockdown 1",0.104847573
+24,80,"1. Lockdown 1",0.058991386
+34,80,"1. Lockdown 1",0.081503731
+44,80,"1. Lockdown 1",0.189454136
+54,80,"1. Lockdown 1",0.166500122
+64,80,"1. Lockdown 1",0.217126946
+80,80,"1. Lockdown 1",0.275455829
+4,4,"2. Lockdown 1 easing",0.430635062
+14,4,"2. Lockdown 1 easing",0.454914965
+24,4,"2. Lockdown 1 easing",0.138516342
+34,4,"2. Lockdown 1 easing",0.326112963
+44,4,"2. Lockdown 1 easing",0.545570687
+54,4,"2. Lockdown 1 easing",0.256091931
+64,4,"2. Lockdown 1 easing",0.106823715
+80,4,"2. Lockdown 1 easing",0.083443421
+4,14,"2. Lockdown 1 easing",0.3113542075
+14,14,"2. Lockdown 1 easing",1.0752314895
+24,14,"2. Lockdown 1 easing",0.4950212945
+34,14,"2. Lockdown 1 easing",0.2070438715
+44,14,"2. Lockdown 1 easing",0.3486344245
+54,14,"2. Lockdown 1 easing",0.4670313055
+64,14,"2. Lockdown 1 easing",0.317696096
+80,14,"2. Lockdown 1 easing",0.1337874115
+4,24,"2. Lockdown 1 easing",0.834787493
+14,24,"2. Lockdown 1 easing",0.828431601
+24,24,"2. Lockdown 1 easing",0.494275892
+34,24,"2. Lockdown 1 easing",0.727757822
+44,24,"2. Lockdown 1 easing",0.7066913
+54,24,"2. Lockdown 1 easing",0.487851305
+64,24,"2. Lockdown 1 easing",0.522056734
+80,24,"2. Lockdown 1 easing",0.328824449
+4,34,"2. Lockdown 1 easing",1.292166022
+14,34,"2. Lockdown 1 easing",1.230045077
+24,34,"2. Lockdown 1 easing",0.480111276
+34,34,"2. Lockdown 1 easing",0.653866612
+44,34,"2. Lockdown 1 easing",0.92353755
+54,34,"2. Lockdown 1 easing",0.669684642
+64,34,"2. Lockdown 1 easing",0.490044154
+80,34,"2. Lockdown 1 easing",0.458928932
+4,44,"2. Lockdown 1 easing",0.561468944
+14,44,"2. Lockdown 1 easing",1.567531807
+24,44,"2. Lockdown 1 easing",0.797202005
+34,44,"2. Lockdown 1 easing",0.417839452
+44,44,"2. Lockdown 1 easing",0.61991607
+54,44,"2. Lockdown 1 easing",0.64214909
+64,44,"2. Lockdown 1 easing",0.47394878
+80,44,"2. Lockdown 1 easing",0.327422948
+4,54,"2. Lockdown 1 easing",0.249699608
+14,54,"2. Lockdown 1 easing",1.194217558
+24,54,"2. Lockdown 1 easing",0.852448682
+34,54,"2. Lockdown 1 easing",0.476716311
+44,54,"2. Lockdown 1 easing",0.483635426
+54,54,"2. Lockdown 1 easing",0.50530285
+64,54,"2. Lockdown 1 easing",0.54978404
+80,54,"2. Lockdown 1 easing",0.420415732
+4,64,"2. Lockdown 1 easing",0.15493315
+14,64,"2. Lockdown 1 easing",0.392253066
+24,64,"2. Lockdown 1 easing",0.250625459
+34,64,"2. Lockdown 1 easing",0.238511037
+44,64,"2. Lockdown 1 easing",0.359774518
+54,64,"2. Lockdown 1 easing",0.277288285
+64,64,"2. Lockdown 1 easing",0.333949678
+80,64,"2. Lockdown 1 easing",0.549528937
+4,80,"2. Lockdown 1 easing",0.126812955
+14,80,"2. Lockdown 1 easing",0.211216046
+24,80,"2. Lockdown 1 easing",0.146772711
+34,80,"2. Lockdown 1 easing",0.214110215
+44,80,"2. Lockdown 1 easing",0.407699875
+54,80,"2. Lockdown 1 easing",0.387637834
+64,80,"2. Lockdown 1 easing",0.2939266
+80,80,"2. Lockdown 1 easing",0.37887602
+4,4,"3. Relaxed restrictions",0.801021534
+14,4,"3. Relaxed restrictions",0.687147396
+24,4,"3. Relaxed restrictions",0.211237184
+34,4,"3. Relaxed restrictions",0.37650662
+44,4,"3. Relaxed restrictions",0.616173822
+54,4,"3. Relaxed restrictions",0.39550823
+64,4,"3. Relaxed restrictions",0.158047389
+80,4,"3. Relaxed restrictions",0.165992884
+4,14,"3. Relaxed restrictions",0.469992271
+14,14,"3. Relaxed restrictions",1.1587138715
+24,14,"3. Relaxed restrictions",0.566210211
+34,14,"3. Relaxed restrictions",0.290239283
+44,14,"3. Relaxed restrictions",0.4002024515
+54,14,"3. Relaxed restrictions",0.580284725
+64,14,"3. Relaxed restrictions",0.328938292
+80,14,"3. Relaxed restrictions",0.155266755
+4,24,"3. Relaxed restrictions",0.963785723
+14,24,"3. Relaxed restrictions",1.173179944
+24,24,"3. Relaxed restrictions",0.749608726
+34,24,"3. Relaxed restrictions",1.513729218
+44,24,"3. Relaxed restrictions",1.040968337
+54,24,"3. Relaxed restrictions",0.865868372
+64,24,"3. Relaxed restrictions",0.925650251
+80,24,"3. Relaxed restrictions",0.678535854
+4,34,"3. Relaxed restrictions",1.459387197
+14,34,"3. Relaxed restrictions",1.413221933
+24,34,"3. Relaxed restrictions",0.557033812
+34,34,"3. Relaxed restrictions",0.96315667
+44,34,"3. Relaxed restrictions",1.140122054
+54,34,"3. Relaxed restrictions",0.862634723
+64,34,"3. Relaxed restrictions",0.673770879
+80,34,"3. Relaxed restrictions",0.622716875
+4,44,"3. Relaxed restrictions",0.867132311
+14,44,"3. Relaxed restrictions",1.960052207
+24,44,"3. Relaxed restrictions",1.04980253
+34,44,"3. Relaxed restrictions",0.741607048
+44,44,"3. Relaxed restrictions",0.79852679
+54,44,"3. Relaxed restrictions",0.958877584
+64,44,"3. Relaxed restrictions",0.745833052
+80,44,"3. Relaxed restrictions",0.526023816
+4,54,"3. Relaxed restrictions",0.369434549
+14,54,"3. Relaxed restrictions",1.232065921
+24,54,"3. Relaxed restrictions",0.861525199
+34,54,"3. Relaxed restrictions",0.845257889
+44,54,"3. Relaxed restrictions",0.6649594
+54,54,"3. Relaxed restrictions",0.795173618
+64,54,"3. Relaxed restrictions",0.917412533
+80,54,"3. Relaxed restrictions",0.673124663
+4,64,"3. Relaxed restrictions",0.30820645
+14,64,"3. Relaxed restrictions",0.44015777
+24,64,"3. Relaxed restrictions",0.218809585
+34,64,"3. Relaxed restrictions",0.492172316
+44,64,"3. Relaxed restrictions",0.488175071
+54,64,"3. Relaxed restrictions",0.445479594
+64,64,"3. Relaxed restrictions",0.534684474
+80,64,"3. Relaxed restrictions",0.80988173
+4,80,"3. Relaxed restrictions",0.177401893
+14,80,"3. Relaxed restrictions",0.499365319
+24,80,"3. Relaxed restrictions",0.241801211
+34,80,"3. Relaxed restrictions",0.413921494
+44,80,"3. Relaxed restrictions",0.427060264
+54,80,"3. Relaxed restrictions",0.444867155
+64,80,"3. Relaxed restrictions",0.507348804
+80,80,"3. Relaxed restrictions",0.603989905
+4,4,"4. School reopening",1.563197595
+14,4,"4. School reopening",3.121090468
+24,4,"4. School reopening",1.606908488
+34,4,"4. School reopening",0.379863606
+44,4,"4. School reopening",0.746244717
+54,4,"4. School reopening",0.477986064
+64,4,"4. School reopening",0.216611958
+80,4,"4. School reopening",0.148167018
+4,14,"4. School reopening",2.035760366
+14,14,"4. School reopening",7.541089159
+24,14,"4. School reopening",3.8578149915
+34,14,"4. School reopening",0.480246932
+44,14,"4. School reopening",0.602854722
+54,14,"4. School reopening",0.7946745505
+64,14,"4. School reopening",0.4832280625
+80,14,"4. School reopening",0.1992080595
+4,24,"4. School reopening",0.972378972
+14,24,"4. School reopening",1.959859873
+24,24,"4. School reopening",1.329500024
+34,24,"4. School reopening",1.214308672
+44,24,"4. School reopening",0.803149879
+54,24,"4. School reopening",0.682917704
+64,24,"4. School reopening",0.714882998
+80,24,"4. School reopening",0.554927361
+4,34,"4. School reopening",1.767455785
+14,34,"4. School reopening",2.15607835
+24,34,"4. School reopening",0.969320921
+34,34,"4. School reopening",0.743114979
+44,34,"4. School reopening",0.923814512
+54,34,"4. School reopening",0.737138139
+64,34,"4. School reopening",0.540462609
+80,34,"4. School reopening",0.512790869
+4,44,"4. School reopening",1.0479609
+14,44,"4. School reopening",2.702839312
+24,44,"4. School reopening",1.526745081
+34,44,"4. School reopening",0.584911747
+44,44,"4. School reopening",0.682356664
+54,44,"4. School reopening",0.849339133
+64,44,"4. School reopening",0.659007968
+80,44,"4. School reopening",0.433742449
+4,54,"4. School reopening",0.506328774
+14,54,"4. School reopening",1.801195333
+24,54,"4. School reopening",1.223669849
+34,54,"4. School reopening",0.65279569
+44,54,"4. School reopening",0.533394516
+54,54,"4. School reopening",0.702604623
+64,54,"4. School reopening",0.775142536
+80,54,"4. School reopening",0.586006251
+4,64,"4. School reopening",0.275108362
+14,64,"4. School reopening",0.577667014
+24,64,"4. School reopening",0.342610563
+34,64,"4. School reopening",0.402513562
+44,64,"4. School reopening",0.401999253
+54,64,"4. School reopening",0.367328255
+64,64,"4. School reopening",0.46548353
+80,64,"4. School reopening",0.724270935
+4,80,"4. School reopening",0.142129627
+14,80,"4. School reopening",0.359594057
+24,80,"4. School reopening",0.211260069
+34,80,"4. School reopening",0.314458319
+44,80,"4. School reopening",0.301752952
+54,80,"4. School reopening",0.436446419
+64,80,"4. School reopening",0.346029681
+80,80,"4. School reopening",0.528159599
+4,4,"5. Lockdown 2",1.335442033
+14,4,"5. Lockdown 2",2.436424624
+24,4,"5. Lockdown 2",1.265939387
+34,4,"5. Lockdown 2",0.260843124
+44,4,"5. Lockdown 2",0.71154691
+54,4,"5. Lockdown 2",0.422783133
+64,4,"5. Lockdown 2",0.14818017
+80,4,"5. Lockdown 2",0.113107333
+4,14,"5. Lockdown 2",1.587417153
+14,14,"5. Lockdown 2",5.6602582535
+24,14,"5. Lockdown 2",2.897474436
+34,14,"5. Lockdown 2",0.3227713515
+44,14,"5. Lockdown 2",0.4893198615
+54,14,"5. Lockdown 2",0.650123689
+64,14,"5. Lockdown 2",0.3989629025
+80,14,"5. Lockdown 2",0.132070752
+4,24,"5. Lockdown 2",0.667709052
+14,24,"5. Lockdown 2",1.320100169
+24,24,"5. Lockdown 2",0.907361989
+34,24,"5. Lockdown 2",0.748107216
+44,24,"5. Lockdown 2",0.469596349
+54,24,"5. Lockdown 2",0.425969969
+64,24,"5. Lockdown 2",0.47884621
+80,24,"5. Lockdown 2",0.351725161
+4,34,"5. Lockdown 2",1.685275183
+14,34,"5. Lockdown 2",1.747670085
+24,34,"5. Lockdown 2",0.775502248
+34,34,"5. Lockdown 2",0.434494345
+44,34,"5. Lockdown 2",0.603033126
+54,34,"5. Lockdown 2",0.522440289
+64,34,"5. Lockdown 2",0.401706535
+80,34,"5. Lockdown 2",0.3729744
+4,44,"5. Lockdown 2",0.926931191
+14,44,"5. Lockdown 2",2.205283139
+24,44,"5. Lockdown 2",1.220769739
+34,44,"5. Lockdown 2",0.364838746
+44,44,"5. Lockdown 2",0.483614392
+54,44,"5. Lockdown 2",0.598708319
+64,44,"5. Lockdown 2",0.49084273
+80,44,"5. Lockdown 2",0.322108106
+4,54,"5. Lockdown 2",0.34637
+14,54,"5. Lockdown 2",1.48895869
+24,54,"5. Lockdown 2",1.019156536
+34,54,"5. Lockdown 2",0.437258604
+44,54,"5. Lockdown 2",0.396453074
+54,54,"5. Lockdown 2",0.523314418
+64,54,"5. Lockdown 2",0.667716206
+80,54,"5. Lockdown 2",0.435113433
+4,64,"5. Lockdown 2",0.210011469
+14,64,"5. Lockdown 2",0.385299193
+24,64,"5. Lockdown 2",0.238226446
+34,64,"5. Lockdown 2",0.255121945
+44,64,"5. Lockdown 2",0.292390991
+54,64,"5. Lockdown 2",0.272787246
+64,64,"5. Lockdown 2",0.345624533
+80,64,"5. Lockdown 2",0.607230455
+4,80,"5. Lockdown 2",0.088164776
+14,80,"5. Lockdown 2",0.17338091
+24,80,"5. Lockdown 2",0.063201826
+34,80,"5. Lockdown 2",0.146967713
+44,80,"5. Lockdown 2",0.236809146
+54,80,"5. Lockdown 2",0.265484745
+64,80,"5. Lockdown 2",0.295427311
+80,80,"5. Lockdown 2",0.423165842
+4,4,"6. Lockdown 2 easing",1.24666856
+14,4,"6. Lockdown 2 easing",2.558509774
+24,4,"6. Lockdown 2 easing",1.229408057
+34,4,"6. Lockdown 2 easing",0.327805071
+44,4,"6. Lockdown 2 easing",0.710844491
+54,4,"6. Lockdown 2 easing",0.380933927
+64,4,"6. Lockdown 2 easing",0.165966389
+80,4,"6. Lockdown 2 easing",0.119904127
+4,14,"6. Lockdown 2 easing",1.682243977
+14,14,"6. Lockdown 2 easing",6.1040171205
+24,14,"6. Lockdown 2 easing",3.0619781155
+34,14,"6. Lockdown 2 easing",0.400105523
+44,14,"6. Lockdown 2 easing",0.52311074
+54,14,"6. Lockdown 2 easing",0.6644713965
+64,14,"6. Lockdown 2 easing",0.382144158
+80,14,"6. Lockdown 2 easing",0.178353153
+4,24,"6. Lockdown 2 easing",0.83911897
+14,24,"6. Lockdown 2 easing",1.611601931
+24,24,"6. Lockdown 2 easing",1.006256247
+34,24,"6. Lockdown 2 easing",1.059983846
+44,24,"6. Lockdown 2 easing",0.691894655
+54,24,"6. Lockdown 2 easing",0.492438352
+64,24,"6. Lockdown 2 easing",0.740953637
+80,24,"6. Lockdown 2 easing",0.533237239
+4,34,"6. Lockdown 2 easing",1.683611528
+14,34,"6. Lockdown 2 easing",1.853671079
+24,34,"6. Lockdown 2 easing",0.758835159
+34,34,"6. Lockdown 2 easing",0.640176006
+44,34,"6. Lockdown 2 easing",0.870277333
+54,34,"6. Lockdown 2 easing",0.609054096
+64,34,"6. Lockdown 2 easing",0.511694559
+80,34,"6. Lockdown 2 easing",0.486570074
+4,44,"6. Lockdown 2 easing",0.835178869
+14,44,"6. Lockdown 2 easing",2.245100577
+24,44,"6. Lockdown 2 easing",1.205392907
+34,44,"6. Lockdown 2 easing",0.421768209
+44,44,"6. Lockdown 2 easing",0.56379137
+54,44,"6. Lockdown 2 easing",0.700670135
+64,44,"6. Lockdown 2 easing",0.585560257
+80,44,"6. Lockdown 2 easing",0.406613017
+4,54,"6. Lockdown 2 easing",0.387945149
+14,54,"6. Lockdown 2 easing",1.42575351
+24,54,"6. Lockdown 2 easing",0.974106407
+34,54,"6. Lockdown 2 easing",0.676602104
+44,54,"6. Lockdown 2 easing",0.50500269
+54,54,"6. Lockdown 2 easing",0.624297981
+64,54,"6. Lockdown 2 easing",0.827586716
+80,54,"6. Lockdown 2 easing",0.623254449
+4,64,"6. Lockdown 2 easing",0.222631382
+14,64,"6. Lockdown 2 easing",0.514663945
+24,64,"6. Lockdown 2 easing",0.294658381
+34,64,"6. Lockdown 2 easing",0.38678075
+44,64,"6. Lockdown 2 easing",0.381443622
+54,64,"6. Lockdown 2 easing",0.344352853
+64,64,"6. Lockdown 2 easing",0.495070967
+80,64,"6. Lockdown 2 easing",0.701503703
+4,80,"6. Lockdown 2 easing",0.081297966
+14,80,"6. Lockdown 2 easing",0.326239721
+24,80,"6. Lockdown 2 easing",0.147307197
+34,80,"6. Lockdown 2 easing",0.323202093
+44,80,"6. Lockdown 2 easing",0.320653507
+54,80,"6. Lockdown 2 easing",0.314893452
+64,80,"6. Lockdown 2 easing",0.327743833
+80,80,"6. Lockdown 2 easing",0.566335869
+4,4,"7. Christmas",0.258991434
+14,4,"7. Christmas",0.350171807
+24,4,"7. Christmas",0.083382167
+34,4,"7. Christmas",0.223164453
+44,4,"7. Christmas",0.543473335
+54,4,"7. Christmas",0.327800811
+64,4,"7. Christmas",0.113224905
+80,4,"7. Christmas",0.121302759
+4,14,"7. Christmas",0.243218995
+14,14,"7. Christmas",0.8372848635
+24,14,"7. Christmas",0.415814476
+34,14,"7. Christmas",0.1844318695
+44,14,"7. Christmas",0.336235733
+54,14,"7. Christmas",0.479127199
+64,14,"7. Christmas",0.251494988
+80,14,"7. Christmas",0.087461044
+4,24,"7. Christmas",0.571258783
+14,24,"7. Christmas",0.739109899
+24,24,"7. Christmas",0.445812812
+34,24,"7. Christmas",0.781039608
+44,24,"7. Christmas",0.515252874
+54,24,"7. Christmas",0.419250859
+64,24,"7. Christmas",0.506221828
+80,24,"7. Christmas",0.411721723
+4,34,"7. Christmas",1.287198512
+14,34,"7. Christmas",1.164016167
+24,34,"7. Christmas",0.356497192
+34,34,"7. Christmas",0.476738076
+44,34,"7. Christmas",0.614415692
+54,34,"7. Christmas",0.458569647
+64,34,"7. Christmas",0.358962418
+80,34,"7. Christmas",0.385019759
+4,44,"7. Christmas",0.718687131
+14,44,"7. Christmas",1.625786492
+24,44,"7. Christmas",0.902263627
+34,44,"7. Christmas",0.3590839
+44,44,"7. Christmas",0.424490388
+54,44,"7. Christmas",0.563321832
+64,44,"7. Christmas",0.391686242
+80,44,"7. Christmas",0.314723698
+4,54,"7. Christmas",0.264662339
+14,54,"7. Christmas",0.940013418
+24,54,"7. Christmas",0.649216293
+34,54,"7. Christmas",0.46225666
+44,54,"7. Christmas",0.354267959
+54,54,"7. Christmas",0.417598235
+64,54,"7. Christmas",0.602744676
+80,54,"7. Christmas",0.457166126
+4,64,"7. Christmas",0.225228285
+14,64,"7. Christmas",0.251480696
+24,64,"7. Christmas",0.140187973
+34,64,"7. Christmas",0.298640127
+44,64,"7. Christmas",0.301833876
+54,64,"7. Christmas",0.266533531
+64,64,"7. Christmas",0.363141693
+80,64,"7. Christmas",0.633332813
+4,80,"7. Christmas",0.132543741
+14,80,"7. Christmas",0.189476352
+24,80,"7. Christmas",0.092683834
+34,80,"7. Christmas",0.191647815
+44,80,"7. Christmas",0.257034452
+54,80,"7. Christmas",0.259352324
+64,80,"7. Christmas",0.319393361
+80,80,"7. Christmas",0.373113236
+4,4,"8. Lockdown 3",0.698170537
+14,4,"8. Lockdown 3",0.665984794
+24,4,"8. Lockdown 3",0.233651679
+34,4,"8. Lockdown 3",0.244213336
+44,4,"8. Lockdown 3",0.618215209
+54,4,"8. Lockdown 3",0.314919532
+64,4,"8. Lockdown 3",0.119565555
+80,4,"8. Lockdown 3",0.073226757
+4,14,"8. Lockdown 3",0.451095876
+14,14,"8. Lockdown 3",0.8534566035
+24,14,"8. Lockdown 3",0.3741407225
+34,14,"8. Lockdown 3",0.175342931
+44,14,"8. Lockdown 3",0.320233552
+54,14,"8. Lockdown 3",0.474218258
+64,14,"8. Lockdown 3",0.2464923895
+80,14,"8. Lockdown 3",0.0668662815
+4,24,"8. Lockdown 3",0.625139943
+14,24,"8. Lockdown 3",0.703408461
+24,24,"8. Lockdown 3",0.427296814
+34,24,"8. Lockdown 3",0.669973897
+44,24,"8. Lockdown 3",0.429677352
+54,24,"8. Lockdown 3",0.385352753
+64,24,"8. Lockdown 3",0.524669028
+80,24,"8. Lockdown 3",0.30035568
+4,34,"8. Lockdown 3",1.464222154
+14,34,"8. Lockdown 3",1.114269964
+24,34,"8. Lockdown 3",0.366551947
+34,34,"8. Lockdown 3",0.397559266
+44,34,"8. Lockdown 3",0.57546388
+54,34,"8. Lockdown 3",0.402171389
+64,34,"8. Lockdown 3",0.341891018
+80,34,"8. Lockdown 3",0.277984588
+4,44,"8. Lockdown 3",0.69044556
+14,44,"8. Lockdown 3",1.609628633
+24,44,"8. Lockdown 3",0.895406459
+34,44,"8. Lockdown 3",0.330050532
+44,44,"8. Lockdown 3",0.372283447
+54,44,"8. Lockdown 3",0.547398294
+64,44,"8. Lockdown 3",0.469328237
+80,44,"8. Lockdown 3",0.252235365
+4,54,"8. Lockdown 3",0.27948356
+14,54,"8. Lockdown 3",0.922750495
+24,54,"8. Lockdown 3",0.643164575
+34,54,"8. Lockdown 3",0.479101728
+44,54,"8. Lockdown 3",0.337419816
+54,54,"8. Lockdown 3",0.500376634
+64,54,"8. Lockdown 3",0.639403698
+80,54,"8. Lockdown 3",0.466184865
+4,64,"8. Lockdown 3",0.135963411
+14,64,"8. Lockdown 3",0.19322496
+24,64,"8. Lockdown 3",0.111773435
+34,64,"8. Lockdown 3",0.217861369
+44,64,"8. Lockdown 3",0.217924311
+54,64,"8. Lockdown 3",0.213613348
+64,64,"8. Lockdown 3",0.370305566
+80,64,"8. Lockdown 3",0.581897787
+4,80,"8. Lockdown 3",0.045393437
+14,80,"8. Lockdown 3",0.093211558
+24,80,"8. Lockdown 3",0.047465718
+34,80,"8. Lockdown 3",0.150929871
+44,80,"8. Lockdown 3",0.182868378
+54,80,"8. Lockdown 3",0.267881326
+64,80,"8. Lockdown 3",0.277069668
+80,80,"8. Lockdown 3",0.310919547
+4,4,"9. Lockdown 3 + schools",1.153495346
+14,4,"9. Lockdown 3 + schools",2.123795169
+24,4,"9. Lockdown 3 + schools",1.075347596
+34,4,"9. Lockdown 3 + schools",0.287966162
+44,4,"9. Lockdown 3 + schools",0.658548602
+54,4,"9. Lockdown 3 + schools",0.407186133
+64,4,"9. Lockdown 3 + schools",0.163948325
+80,4,"9. Lockdown 3 + schools",0.096893704
+4,14,"9. Lockdown 3 + schools",1.3880323545
+14,14,"9. Lockdown 3 + schools",5.1463617135
+24,14,"9. Lockdown 3 + schools",2.613619464
+34,14,"9. Lockdown 3 + schools",0.3465432975
+44,14,"9. Lockdown 3 + schools",0.444598608
+54,14,"9. Lockdown 3 + schools",0.6561830695
+64,14,"9. Lockdown 3 + schools",0.412178901
+80,14,"9. Lockdown 3 + schools",0.1401120325
+4,24,"9. Lockdown 3 + schools",0.737138901
+14,24,"9. Lockdown 3 + schools",1.418772723
+24,24,"9. Lockdown 3 + schools",0.981110849
+34,24,"9. Lockdown 3 + schools",0.789875367
+44,24,"9. Lockdown 3 + schools",0.450139797
+54,24,"9. Lockdown 3 + schools",0.500643219
+64,24,"9. Lockdown 3 + schools",0.579995452
+80,24,"9. Lockdown 3 + schools",0.313358543
+4,34,"9. Lockdown 3 + schools",1.559750455
+14,34,"9. Lockdown 3 + schools",1.591036708
+24,34,"9. Lockdown 3 + schools",0.719419899
+34,34,"9. Lockdown 3 + schools",0.416492157
+44,34,"9. Lockdown 3 + schools",0.490201924
+54,34,"9. Lockdown 3 + schools",0.491446688
+64,34,"9. Lockdown 3 + schools",0.358285009
+80,34,"9. Lockdown 3 + schools",0.233059832
+4,44,"9. Lockdown 3 + schools",0.892735538
+14,44,"9. Lockdown 3 + schools",2.233905273
+24,44,"9. Lockdown 3 + schools",1.270721206
+34,44,"9. Lockdown 3 + schools",0.42879559
+44,44,"9. Lockdown 3 + schools",0.454924125
+54,44,"9. Lockdown 3 + schools",0.692229253
+64,44,"9. Lockdown 3 + schools",0.539902116
+80,44,"9. Lockdown 3 + schools",0.299600883
+4,54,"9. Lockdown 3 + schools",0.383227942
+14,54,"9. Lockdown 3 + schools",1.533551495
+24,54,"9. Lockdown 3 + schools",1.030301724
+34,54,"9. Lockdown 3 + schools",0.529623074
+44,54,"9. Lockdown 3 + schools",0.353599409
+54,54,"9. Lockdown 3 + schools",0.575619327
+64,54,"9. Lockdown 3 + schools",0.702295396
+80,54,"9. Lockdown 3 + schools",0.473971444
+4,64,"9. Lockdown 3 + schools",0.179906896
+14,64,"9. Lockdown 3 + schools",0.41025977
+24,64,"9. Lockdown 3 + schools",0.259908282
+34,64,"9. Lockdown 3 + schools",0.227292926
+44,64,"9. Lockdown 3 + schools",0.182705824
+54,64,"9. Lockdown 3 + schools",0.253726306
+64,64,"9. Lockdown 3 + schools",0.376490695
+80,64,"9. Lockdown 3 + schools",0.536125467
+4,80,"9. Lockdown 3 + schools",0.082065639
+14,80,"9. Lockdown 3 + schools",0.217831105
+24,80,"9. Lockdown 3 + schools",0.147424099
+34,80,"9. Lockdown 3 + schools",0.125293517
+44,80,"9. Lockdown 3 + schools",0.162832437
+54,80,"9. Lockdown 3 + schools",0.295852416
+64,80,"9. Lockdown 3 + schools",0.277937001
+80,80,"9. Lockdown 3 + schools",0.289473924
